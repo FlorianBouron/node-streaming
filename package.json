@@ -1,0 +1,24 @@
+{
+  "name": "node-streaming",
+  "version": "1.0.0",
+  "description": "Node Streaming is a quick script to stream a video with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlorianBouron/node-streaming.git"
+  },
+  "keywords": [
+    "streaming",
+    "node.js"
+  ],
+  "author": "Florian Bouron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FlorianBouron/node-streaming/issues"
+  },
+  "homepage": "https://github.com/FlorianBouron/node-streaming#readme"
+}
